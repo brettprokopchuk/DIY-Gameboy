@@ -10,8 +10,11 @@ illusion that the gameboy is reading the games completely from the SD card like 
 are hardcoded into the sketch and just inaccessible until it's cartridge is accessed. The games on the gameboy will be played with
 a potentiometer and push button switch as input and an lcd module as output.
 
-**Manifest**
+**Libraries**
 ------------
+
+This project uses the SD card library that is automatically included in the Arduino software.
+You must include the <SD.h> header file in your code to use this library.
 
 **Sketch File:**
 gameboy.ino
