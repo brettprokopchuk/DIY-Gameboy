@@ -16,6 +16,8 @@ a potentiometer and push button switch as input and an lcd module as output.
 This project uses the SD card library that is automatically included in the Arduino software.
 You must include the <SD.h> header file in your code to use this library.
 
+**Manifest**
+
 **Sketch File:**
 gameboy.ino
 
