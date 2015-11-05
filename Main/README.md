@@ -17,6 +17,7 @@ This project uses the SD card library that is automatically included in the Ardu
 You must include the <SD.h> header file in your code to use this library.
 
 **Manifest**
+------------
 
 **Sketch File:**
 gameboy.ino
