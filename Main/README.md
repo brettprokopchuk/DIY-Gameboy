@@ -97,6 +97,10 @@ Wires were soldered together and placed into a cardboard box with paper taped to
 ![demonstration build side](http://i.imgur.com/MGreaOl.jpg)
 ![demonstration build back](http://i.imgur.com/4ws9i3O.jpg)
 
+**Below is a link to a video demonstration of the demonstration build.**
+https://www.youtube.com/watch?v=pHwXku7gy50&feature=youtu.be
+
+
 
 **Manifest**
 ------------
